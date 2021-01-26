@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
           title: Row(
             children: [
               Text(
-                'sharaf.j.tibi',
+                'sharaf.j.Tibi',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 25.0,
